@@ -19,6 +19,7 @@ However, you cannot declared a abstract static method. "abstract" and "static" k
 It is prohibited to call a static method from non-static method
 Doing so will cause compilation error
 
-
+##Inheritance
+Static methods are inheritable
  
 
